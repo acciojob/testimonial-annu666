@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+#main{
+	background-color: #f5f5f5;
+	padding:20px;
+}
+.testi1{
+	Padding:5px;
+	background-color:white;
+	border:1px solid gray;
+	margin-bottom:15px;
+}
+.testi2{
+	Padding:5px;
+	background-color:white;
+	border:1px solid gray;
+}
+.author{
+	text-align:right;
+	font-style:italic;
+	padding:5px;
+}
